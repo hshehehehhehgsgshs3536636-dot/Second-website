@@ -1,2 +1,4 @@
 # Second-website
-Learnig git commonds
+Learnig git commands
+<br>
+the first commit or initial commit
